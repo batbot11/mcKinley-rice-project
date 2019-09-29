@@ -1,0 +1,18 @@
+.main__date,
+.main__day {
+    text-align-last: right;
+    color: #626262;
+    margin-right: 12%;
+}
+
+.main__time {
+    font-size: 44px;
+    color: #626262;
+    font-weight: 600;
+}
+
+.main__day {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: -12%;
+}

@@ -1,0 +1,28 @@
+.buttons__container {
+    margin-right: 10%;
+}
+
+.single__button {
+    display: inline-block;
+    margin-right: 35px;
+}
+
+.single__button--active {
+    display: inline-block;
+    margin-right: 35px;
+    background-color: #ff9e1a;
+    border-radius: 100px;
+    padding: 2px 5px;
+    color: #fff;
+}
+
+
+.navbar__dot {
+    background-color: #ff9e1a;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 15%
+}
+

@@ -1,0 +1,12 @@
+.lampbox__number {
+    margin-top: 150px;
+    background-color: #ff9e1a;
+    display: inline-block;
+    border-radius: 50%;
+    color: #fff;
+    padding: 0px 12px;
+}
+
+.lampbox__text {
+    font-size: 12px;
+}
